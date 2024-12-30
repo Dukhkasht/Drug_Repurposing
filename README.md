@@ -1,2 +1,3 @@
 # Drug_Repurposing
-Files and codes for my drug repurposing project
+All the files related to my drug repurposing project by NBI algorithm and other filtering and automation codes
+
